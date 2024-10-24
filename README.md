@@ -27,4 +27,4 @@ Model Değerlendirmesi : Eğitim ve doğrulama veri kümelerinde model performan
 Sonuçlar
 Eğitim süreci sonunda modelin %75'in üzerinde bir doğruluk oranına ulaştığı ve farklı balık türlerini etkin bir şekilde sınıflandırabildiği ortaya konuldu.
 
-Projeyi takım arkadaşım Berat Keskin ile geliştirip incelemenize sunuyoruz.# AkbankDeepLearningBootcamp
+Projeyi takım arkadaşım Berat Keskin ile geliştirip incelemenize sunuyoruz.
